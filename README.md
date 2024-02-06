@@ -37,9 +37,3 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to adapt
 ![DS Leadership Kit in Action](./docs/images/ds-leadership-kit-preview.png)
 
 🌐 **[Explore the DS Leadership Kit](#)** and take your data science leadership to new heights!
-
----
-
-**Note:** Replace the placeholder URLs in the image tags (`./images/ds-leadership-kit-banner.png` and `./images/ds-leadership-kit-preview.png`) with the actual URLs or paths to your banner and preview images.
-
-This README structure provides a clear and visually appealing introduction to the DS Leadership Kit, with sections highlighting key features, contribution guidelines, and licensing information. Customize it further based on your specific content and preferences.
