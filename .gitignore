@@ -1,0 +1,69 @@
+# .gitignore for Python Data Science with PyCharm
+
+# Virtual Environment
+venv/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variable file
+.env
+
+# Output of data analysis operations
+/output/
+
+# Distribution folder
+/dist/
+
+# Python egg metadata
+.egg-info/
+
+# Compiled Python files
+__pycache__/
+
+# Python installer cache
+pip-wheel-metadata/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Python extensions
+*.pyc
+*.pyo
+*.pyd
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+
+# Python pycache
+__pycache__/
+
+# Jupyter backup
+*.ipynb_checkpoints
+
+# MISC.
+docs/REPO-CICD.md
